@@ -10,4 +10,4 @@
 ## Principais Ferramentas Utilizadas 🛠🧰
 - Spyder 
 - Google Collab
-- PostgreeSQL
+- PostgreSQL
