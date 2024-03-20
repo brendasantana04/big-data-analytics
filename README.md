@@ -6,8 +6,11 @@ Durante esse curso é abordado diversos temas de big data e análise de dados.
 - Fundamentos de Big Data
 - Fundamentos de Python
 - Banco de Dados (SQL)
+- Scripts
+- Conexão do Banco de Dados com Python
+- APIs
 
 ## Principais Ferramentas Utilizadas 🛠🧰
 - Spyder 
-- Google Collab
 - PostgreSQL
+- Thonny
