@@ -11,10 +11,11 @@ Durante esse curso é abordado diversos temas de big data e análise de dados.
 - APIs
 
 ## Ferramentas 🛠🧰
-- Spyder 
-- PostgreSQL
+- Spyder
 - Thonny
+- PostgreSQL
+- MongoDB
 
-## Tecnologias 🛠🧰
+## Tecnologias 👨‍💻💻💾
 - Python
-- SQL
+- SQL e NoSQL
