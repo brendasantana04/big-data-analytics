@@ -10,7 +10,11 @@ Durante esse curso é abordado diversos temas de big data e análise de dados.
 - Conexão do Banco de Dados com Python
 - APIs
 
-## Principais Ferramentas Utilizadas 🛠🧰
+## Ferramentas 🛠🧰
 - Spyder 
 - PostgreSQL
 - Thonny
+
+## Tecnologias 🛠🧰
+- Python
+- SQL
